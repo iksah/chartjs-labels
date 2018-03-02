@@ -1,0 +1,10 @@
+{
+  "name": "chartjs-labels",
+  "version": "0.1.0",
+  "description": "plugin to draw labels on charts",
+  "main": "index.html",
+  "repository": "https://github.com/iksah/chartjs-labels",
+  "author": "Sasha Pinaev (@iksah)",
+  "license": "MIT",
+  "dependencies": {}
+}
